@@ -4,10 +4,13 @@ This is the "ConfigurationObject" for the entire DME.
 It reads all the configuration files, the Operating System version and the Window version and apply a desired configuration accordingly.
 
 ## Requirements
+[Detailed requirement list here](00DMERequirements.txt)
 
 ## Design
+[DME Design is available here](01DMEDesign.md)
 
 ## DME Config File Protocol
+[DME Configuration File Protocol details available here](02DMEConfigFileP.txt)
 
 ## DME Theme Protocol
 The DME Theme Protocol is inspired by Rich Goodwin and Chir (Little Yellow Moon) works.
