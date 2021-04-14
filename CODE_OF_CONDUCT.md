@@ -94,7 +94,7 @@ of actions.
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behaviour.
 
-**Consequence**: A temporary ban from any sort of on-line resources ocontrolled by the RISC OS Community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+**Consequence**: A temporary ban from any sort of on-line resources controlled by the RISC OS Community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
