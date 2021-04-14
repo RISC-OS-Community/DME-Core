@@ -75,7 +75,7 @@ There are some very useful tips [here at the ROOL Forum](https://www.riscosopen.
 ## Contributing General Guidelines
 In general you'd want to:
 - Clone a repo from here to your local git using "git clone <repo-url>"
-- Create your branch using "git branch -b" (we suggest that you name your branches following this pattern: <your nick>-<what type of changes you are applying>)
+- Create your branch using "git branch -b" (we suggest that you name your branches following this pattern: your_nick-what_type_of_changes_you_are_applying with no spaces, you can use either dash or underscore to your preference)
 - Make sure your commit messages are clear and meaningful to help reviewers to understand what you were trying to achieve
 - When possible try to make small commits and Pull Requests so that the review process can be quicker
 - Make sure you keep the documentation up-to-date with your changes
