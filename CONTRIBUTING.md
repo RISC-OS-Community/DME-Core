@@ -77,7 +77,7 @@ In general you'd want to:
 * Clone a repo from here to your local git using: `git clone repo-url`
 * Get into the repo using: `cd repo-name`
 * Create your branch using: `git branch -b branch-name`
-  - we suggest that you name your branches following this pattern: your_nick-what_type_of_changes_you_are_applying with no spaces, you can use either dash or underscore to your preference
+  - we suggest that you name your branches following this pattern: `your_nick-what_type_of_changes_you_are_applying` with no spaces, you can use either dash or underscore to your preference
 * Start adding your changes
   - Where applicable stick to RISC OS Style guide
   - Make sure you keep the documentation and code comments up-to-date with your changes
