@@ -74,12 +74,18 @@ There are some very useful tips [here at the ROOL Forum](https://www.riscosopen.
 
 ## Contributing General Guidelines
 In general you'd want to:
-- Clone a repo from here to your local git using "git clone <repo-url>"
-- Create your branch using "git branch -b" (we suggest that you name your branches following this pattern: your_nick-what_type_of_changes_you_are_applying with no spaces, you can use either dash or underscore to your preference)
-- Make sure your commit messages are clear and meaningful to help reviewers to understand what you were trying to achieve
-- When possible try to make small commits and Pull Requests so that the review process can be quicker
-- Make sure you keep the documentation up-to-date with your changes
-- Where applicable stick to RISC OS Style guide
-- Make sure you've tested your changes before submitting a Pull Request
-- Submit your branch for review when it is done, do this by making a Pull Request and requesting a review from the Code Reviews Team
+* Clone a repo from here to your local git using: `git clone repo-url`
+* Get into the repo using: `cd repo-name`
+* Create your branch using: `git branch -b branch-name`
+** we suggest that you name your branches following this pattern: your_nick-what_type_of_changes_you_are_applying with no spaces, you can use either dash or underscore to your preference
+* Start adding your changes
+** Where applicable stick to RISC OS Style guide
+** Make sure you keep the documentation and code comments up-to-date with your changes
+* When done with your changes add them to your local git using: `git add ./what-you-chaged`
+* Commit your changes using: `git commit -m "commit message"`
+** Make sure your commit messages are clear and meaningful to help reviewers to understand what you were trying to achieve
+** When possible try to make small commits and Pull Requests so that the review process can be quicker
+* Push your local branch into github using: `git push -u origin your_nick-what_type_of_changes_you_are_applying`
+* Submit your branch for review when it is done, do this by making a Pull Request and requesting a review from the Code Reviews Team
+** Make sure you've tested your changes before submitting a Pull Request
 
