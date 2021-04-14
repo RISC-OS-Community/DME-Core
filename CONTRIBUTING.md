@@ -14,7 +14,7 @@ Thanks for considering helping us and we hope you'll have fun!
 
 ## Common dictionary
 Table of technical terms and meaning in this context:
-
+```
 +------------------------------+------------------------------------------------+
 |         Terms                |                Description                     |
 +------------------------------+------------------------------------------------+
@@ -52,11 +52,10 @@ Table of technical terms and meaning in this context:
 |                              | detect all the changes between the codebase    |
 |                              | and the fork or the branch we are comparing.   |
 +------------------------------+------------------------------------------------+ 
+```
+**Please note:** 
 
-
-Please note: 
-
-Forks ae more expensive than branches as they creates a full copy of a project and when merged back to the codebase git has to run a full diff of everything while with a Branch git runs a diff only of the portion we have worked/modified. Forks also take up more space generally.
+Forks are more expensive than branches as they creates a full copy of a project and when merged back to the codebase git has to run a full diff of everything while with a Branch git runs a diff only of the portion we have worked/modified. Forks also take up more space generally.
 
 ## Pre-requisites (before you start)
 Please make sure you have a github account before you start. Also we recommend to add your RSA Public key to your github account. If you do not know how to do that please follow the instructions here:
