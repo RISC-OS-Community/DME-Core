@@ -2,7 +2,7 @@
 name: New Requirement
 about: New feature request
 title: ''
-labels: requirement
+labels: enhancement
 assignees: ''
 
 ---
