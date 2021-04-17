@@ -7,10 +7,17 @@ You can contribute by:
 3) Reviewing/Improving requirements and documentation
 4) Helping us with the graphics/sound that certain projects and repositories may require
 5) Helping us testing the code on as many RISC OS platforms and OS versions as possible (within the supported range)
+6) Providing us constructive feedback on the work/projects/repositories/requirements/designs
 
-Next chapters will introduce a common dictionary of technical terms to make sure we are all on the same page and finally instructions on how to submit back your contribution.
+Next chapters will help who is completely new to this process, introduce a common dictionary of technical terms to make sure we are all on the same page and finally provide instructions on how to submit back your contribution.
 
 Thanks for considering helping us and we hope you'll have fun!
+
+## Is this your first contribution ever?
+If this is your first ever contribution to an Open Source project then don't be afraid, here there is a free course for you to follow that will give you a lot of good information: [How to contribute to an Open Source project on GitHub](https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github)
+
+## Submitting code
+To submit your changes we use Pull Requests (if you used GitLab instead they are called there Merge Requests). Any code change should be submitted as a pull request, no other ways are allowed, sorry. Read below for the details and the guidelines.
 
 ## Common dictionary
 Table of technical terms and meaning in this context:
