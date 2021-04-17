@@ -64,3 +64,6 @@ Paste here the list of loaded modules. The get the list open a TaskWindow and ty
 [] - Titanium board
 Other:
 
+# Other possible details
+Feel free to use this part as a free file where to add info we may have not think of above, thanks.
+
