@@ -88,7 +88,7 @@ In general you'd want to:
 * Start adding your changes
   - If you need on-line RISC OS documentation you can find it [here](https://www.riscosopen.org/wiki/documentation/show/HomePage)
   - Where applicable stick to RISC OS Style guide
-    - If you don't have the guide and would lik eto get your copy you can fin dinfo/help [here](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
+    - If you don't have the guide and would like to get your copy you can find info/help [here](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
   - Also please have a look at the Programming Conventions hosted on RISCOS.info, [click here to read them](http://www.riscos.info/index.php/Programming_Conventions)
   - Make sure you keep the documentation and code comments up-to-date with your changes
 * When done with your changes add them to your local git using: `git add ./what-you-chaged`
