@@ -96,3 +96,9 @@ In general you'd want to:
 * Submit your branch for review when it is done, do this by making a Pull Request and requesting a review from the Code Reviews Team
   - Make sure you've tested your changes before submitting a Pull Request
 
+# Extra info for BBC BASIC developers
+
+ROOL has a fantastic repo with tools that can be used to make life easier for BBC BASIC developers when using git:
+
+[Tools to help using git with BBC BASIC](https://gitlab.riscosopen.org/Support/RepoTools)
+
