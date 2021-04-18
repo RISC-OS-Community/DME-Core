@@ -86,6 +86,7 @@ In general you'd want to:
 * Create your branch using: `git branch -b branch-name`
   - we suggest that you name your branches following this pattern: `your_nick-what_type_of_changes_you_are_applying` with no spaces, you can use either dash or underscore to your preference
 * Start adding your changes
+  - If you need on-line RISC OS documentation you can find it [here](https://www.riscosopen.org/wiki/documentation/show/HomePage)
   - Where applicable stick to RISC OS Style guide
     - If you don't have the guide and would lik eto get your copy you can fin dinfo/help [here](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
   - Also please have a look at the Programming Conventions hosted on RISCOS.info, [click here to read them](http://www.riscos.info/index.php/Programming_Conventions)
