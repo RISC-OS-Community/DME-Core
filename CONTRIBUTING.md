@@ -81,10 +81,13 @@ There are some very useful tips [here at the ROOL Forum](https://www.riscosopen.
 
 ## Contributing General Guidelines
 In general you'd want to:
-* Clone a repo from here to your local git using: `git clone repo-url`
-* Get into the repo using: `cd repo-name`
-* Create your branch using: `git branch -b branch-name`
-  - we suggest that you name your branches following this pattern: `your_nick-what_type_of_changes_you_are_applying` with no spaces, you can use either dash or underscore to your preference
+* If you want to use Branching:
+  - Clone a repo from here to your local git using: `git clone repo-url`
+  - Get into the repo using: `cd repo-name`
+  - Create your branch using: `git branch -b branch-name`
+    - we suggest that you name your branches following this pattern: `your_nick-what_type_of_changes_you_are_applying` with no spaces, you can use either dash or underscore to your preference
+* If instead you want to use Forking:
+  - Fork a repo from here to your guthub account. If you're not familiar with forking then [here there are useful info for you](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 * Start adding your changes
   - If you need on-line RISC OS documentation you can find it [here](https://www.riscosopen.org/wiki/documentation/show/HomePage)
   - Where applicable stick to RISC OS Style guide
