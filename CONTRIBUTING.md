@@ -87,6 +87,7 @@ In general you'd want to:
   - we suggest that you name your branches following this pattern: `your_nick-what_type_of_changes_you_are_applying` with no spaces, you can use either dash or underscore to your preference
 * Start adding your changes
   - Where applicable stick to RISC OS Style guide
+    - If you don't have the guide and would lik eto get your copy you can fin dinfo/help [here](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
   - Make sure you keep the documentation and code comments up-to-date with your changes
 * When done with your changes add them to your local git using: `git add ./what-you-chaged`
 * Commit your changes using: `git commit -m "commit message"`
