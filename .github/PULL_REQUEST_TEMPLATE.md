@@ -5,7 +5,7 @@
   your pull request review if you would be so kind and compile it with your code
   submission an dyour Pull Request!
   If you remove or skip this template, you'll make the Elders of RISC OS sad and 
-  the mighty King Arthur might rise his ARM against you!!!! you're warned :)
+  the mighty King Arthur might raise his ARM against you!!! You have been warned :)
 
   Pull Request Requirements:
   * Please include tests to illustrate the problem this PR resolves.
