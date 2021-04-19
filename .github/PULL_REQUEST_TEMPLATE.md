@@ -31,7 +31,9 @@ Breaking Changes?
 - [ ] yes (*breaking changes will not be merged unless absolutely necessary*)
 
 List any relevant issue numbers:
-
+<!--
+  If your PR resolves an issue you can write for instance `Resolves #42` or `Fixes #42` to automatically close that issue when the PR is merged.
+-->
 ### Description
 
 <!--
