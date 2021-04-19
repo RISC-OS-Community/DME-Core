@@ -3,7 +3,7 @@
 
   This template is not a must to use, however it would help us a lot to speed up
   your pull request review if you would be so kind and compile it with your code
-  submission an dyour Pull Request!
+  submission and your Pull Request!
   If you remove or skip this template, you'll make the Elders of RISC OS sad and 
   the mighty King Arthur might raise his ARM against you!!! You have been warned :)
 
