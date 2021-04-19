@@ -28,7 +28,7 @@ Are tests included?
 
 Breaking Changes?
 - [ ] no
-- [ ] yes (*breaking changes will not be merged unless absolutely necessary*)
+- [ ] yes (*breaking changes will not be merged unless absolutely necessary – please provide motivation*)
 
 List any relevant issue numbers:
 <!--
