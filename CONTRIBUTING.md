@@ -110,9 +110,8 @@ ROOL has a fantastic repo with tools that can be used to make life easier for BB
 
 # Extra info for everyone
 
-If you fear having to learn git or if you just want to help us with reviewing documentation etc you can also use github via the github application for iOS and Android available for both the Apple iPad and iPhone and Android Tablets and Phones.
-The Android/Apple github application makes it very easy to interact with us and provide your contribution without the need to learn git!
-Have a look on your device on-line store for the GitHub application published by GitHub.
+If you fear having to learn git or if you just want to help us with reviewing documentation etc. you can also use GitHub via the GitHub application, available for both the Apple iPad and iPhone and Android Tablets and Phones.
+The Android/Apple GitHub application makes it very easy to interact with us and provide your contribution without the need to learn git!
+Have a look in your device' on-line store for the GitHub application published by GitHub.
 
-So no excuses ;-)
-
+So no excuses! ;-)
