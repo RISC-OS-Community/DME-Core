@@ -28,7 +28,7 @@ For new users there should be an "Initial Configuration" available as a "Wizard 
 ## As a RISC OS Vendor I would like that:
 RV0001
 ______
-I could customise my devices with my own Theme and have it easy to do so (like just copying a config directory in Boot:Choices)
+I can customise my devices with my own Theme and have an easy way to do so (like just copying a config directory in Boot:Choices)
 
 RV0002
 ______
