@@ -31,6 +31,7 @@ Every add-on (Global Controls, Theme, Gadget) should be enabbled or disabled via
 *RU0004*
 
 For new users there should be an "Initial Configuration" available as a "Wizard Process" where they can set up RISC OS without the need to know where to go and what to do. A bit like it works on every Apple device where at the first boot a user is asked to "customise" their device.
+
 ------
 
 ## As a RISC OS Vendor I would like that:
