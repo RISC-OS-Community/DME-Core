@@ -1,7 +1,7 @@
 # DME-Core documentation
 This is the "ConfigurationObject" for the entire DME.
 
-It reads all the configuration files, the Operating System version and the Window version and apply a desired configuration accordingly.
+It reads all the configuration files, the Operating System version and the Window version and applies a desired configuration accordingly.
 
 ## Requirements
 [Detailed requirement list here](00DMERequirements.md)
@@ -19,4 +19,3 @@ It foundamentally is a text file that describes all the options and details to a
 This type of feature does not exists in the bare RISC OS and so must be added in order to make DME be able to deal with complex themes that may require more than just reload the tool sprites.
 
 [Details on the Theme Protocol available here](02DMEThemeP.txt)
-
