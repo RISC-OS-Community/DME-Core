@@ -11,9 +11,9 @@ The DME-Core Engine should be able to set:
 
 RU0002
 ______
-To fulfill R00001 it should read a configuration file that can be modified by the user using the DME ConfigTools.
+To fulfill RU0001 it should read a configuration file that can be modified by the user using the DME ConfigTools.
 The configuration file:
-- should reside in !Boot:Choices.DME
+- Should reside in !Boot:Choices.DME
 - Should be a set of configurations files (or just one)?
 - It should be following a well define configuration protocol (see 01DMEConfigFileP/txt for details)
 
