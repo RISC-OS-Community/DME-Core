@@ -45,5 +45,5 @@ I would like to have an easy way to distribute my Theme and for the users to ins
 
 RD0003
 ______
-I would liek that the Theme System would work on as many RISC OS devices and RISC OS releases as possible in order to maximise the distribution of my work
+I would like that the Theme System would work on as many RISC OS devices and RISC OS releases as possible in order to maximise the distribution of my work. Possibly the Theme System should recognise each release of RISC OS and apply my Theme in a way that makes it compatible with the specific version.
  
