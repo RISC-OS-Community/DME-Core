@@ -37,7 +37,7 @@ I would like to be able to control the "Initial Configuration Process" by settin
 ## As a RISC OS Developer/Theme Creator I would like that
 RD0001
 ______
-I could use some Wimp Tool to be able to create a Theme instea dof having to do everything manually
+I can use some Wimp Tool to be able to create a Theme instead of having to do everything manually
 
 RD0002
 ______
