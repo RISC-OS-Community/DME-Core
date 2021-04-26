@@ -32,7 +32,7 @@ I can customise my devices with my own Theme and have an easy way to do so (like
 
 RV0002
 ______
-I would like to be able to control the "Initial Configuration Process" by setting which steps a user could perform on my devices
+I would like to be able to control the "Initial Configuration Process" by setting which steps a user can perform on my devices
 
 ## As a RISC OS Developer/Theme Creator I would like that
 RD0001
