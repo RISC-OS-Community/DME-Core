@@ -19,7 +19,7 @@ Theme Name
 ```
 
 ## Protocol details
-Each theme must contain a cnfiguration file either called Choices or Config and the syntax is like the following:
+Each theme must contain a configuration file either called Choices or Config and the syntax is like the following:
 
 Protocol Example:
 ```
@@ -106,4 +106,3 @@ Tool:Tools
 ```
 
 Lines that starts with an "#" are comments and will be ignored when applying a theme.
-
