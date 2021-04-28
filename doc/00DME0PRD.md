@@ -1,4 +1,4 @@
-# DME-Core Requirements
+# Product Requirements Document
 
 ## As a RISC OS user I would like that:
 
@@ -18,7 +18,7 @@ To fulfill RU0001 it should read a configuration file that can be modified by th
 The configuration file:
 - Should reside in !Boot:Choices.DME
 - Should be either a set of configurations files or just a single file
-- It should be following a well define configuration protocol (see 01DMEConfigFileP/txt for details)
+- It should be following a well define configuration protocol ([see here for more details](02DMEConfigFileP.md))
 
 ------
 

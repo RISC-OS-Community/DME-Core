@@ -38,5 +38,5 @@ It is fundamentally a text file that describes all the options and details to ap
 
 This type of feature does not exists in the bare RISC OS and so must be added in order to make DME be able to deal with complex themes that may require more than to just reload the tool sprites.
 
-[Details on the Theme Protocol available here](02DMEThemeP.txt)
+[Details on the Theme Protocol available here](02DMEThemeP.md)
 
