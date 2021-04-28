@@ -19,7 +19,15 @@ Theme Name
 ```
 
 ## Protocol details
-Each theme must contain a configuration file either called Choices or Config and the syntax is like the following:
+Each theme must contain a configuration file either called Choices or Config.
+
+Essencially the file format is *key* *value*.
+
+Each Keyword (token) in the configuration file is case insenitive, while their values are case sensitive.
+Each keyword, when parsed, will be trimmed of spaces surrounding it, but no internal spaces will be touched.
+Each keyword value, when parsed, will have surrounding spaces trimmed, but no internal spaces will be touched.
+
+Each line that begins with a "#" symbol are considered comments and will be ignored.
 
 Protocol Example:
 ```
