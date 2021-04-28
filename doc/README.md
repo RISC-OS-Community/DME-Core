@@ -30,7 +30,7 @@ We'd recommend to read it before installing and using the DME Engine on your RIS
 [DME Design is available here](01DMEDesign.md)
 
 ### DME Config File Protocol
-[DME Configuration File Protocol details available here](02DMEConfigFileP.txt)
+[DME Configuration File Protocol details available here](02DMEConfigFileP.md)
 
 ### DME Theme Protocol
 The DME Theme Protocol is inspired by Rich Goodwin's and Chir's (Little Yellow Moon) works.
