@@ -14,7 +14,7 @@ Having a more modern experience and a more standardised one will certainly help 
 
 [Detaled MRD here](00DME0MRD.md)
 
-## Product Requirements Dcument (PRD)
+## Product Requirements Document (PRD)
 This document is what most users are interested to:
 
 [Detailed PRD here](00DME0PRD.md)
