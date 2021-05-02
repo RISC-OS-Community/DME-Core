@@ -9,7 +9,7 @@ All the code in this community is distributed as Open Source and so the word bus
 [Detailed BRD here](00DME0BRD.md)
 
 ## Market Requirements Document (MRD)
-RISC OS is an Operating System that at the moment has the advantage of being extremely minimalistic. This is definitely an advantage in markets like IoT and Embeeded Applications, however improving its desktop functionalities would certainly help those who wish to adopt RISC OS for their own solutions development.
+RISC OS is an Operating System that at the moment has the advantage of being extremely minimalistic. This is definitely an advantage in markets like IoT and Embedded Applications, however improving its desktop functionalities would certainly help those who wish to adopt RISC OS for their own solutions development.
 Having a more modern experience and a more standardised one will certainly help to reduce the initial learning curve to adopt RISC OS as a platform for developing and distributing 3rd party applications and solutions.
 
 [Detaled MRD here](00DME0MRD.md)
