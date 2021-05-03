@@ -112,6 +112,8 @@ ROOL has a fantastic repo with tools that can be used to make life easier for BB
 
 [Tools to help using git with BBC BASIC](https://gitlab.riscosopen.org/Support/RepoTools)
 
+Also ROOL has a free BBC BASIC Reference Manual PDF updated and available [here](https://www.riscosopen.org/zipfiles/platform/common/BASICRefManual.3.pdf)
+
 # Extra info for everyone
 
 If you fear having to learn git or if you just want to help us with reviewing documentation etc. you can also use GitHub via the GitHub application, available for both the Apple iPad and iPhone and Android Tablets and Phones.
