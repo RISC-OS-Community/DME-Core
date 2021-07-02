@@ -4,7 +4,7 @@
 
 One of the first elements of a Modern Operating System (OS) that is perceived by any type of user is the usability of its interaction environment (either command line or graphical user interface based).
 
-Regardless the technologies implied in the general architecture of the OS or the number of applications it can be used for, the we can interact with it is the very first element a user will always perceive.
+Regardless of the technologies implied in the general architecture of the OS or the number of applications it can be used for, how we can interact with it is the very first element a user will always perceive.
 
 On top of that the user interface (UI) can also make (or break) the productivity that an OS offers to users of every type.
 
