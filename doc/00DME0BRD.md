@@ -8,7 +8,7 @@ Regardless of the technologies implied in the general architecture of the OS or 
 
 On top of that the user interface (UI) can also make (or break) the productivity that an OS offers to users of every type.
 
-Finally in modern times general (and non general) users are exposed to a lot of different OS compared to what used to happen back in the early days of home computing pioneers and so they have developed expectations and perceptions towards how such UI interaction should happen.
+Finally, in modern times general (and non-general) users are exposed to a lot of different OS compared to what used to happen back in the early days of home computing pioneers and so they have developed expectations and perceptions towards how such UI interaction should happen.
 
 So far, RISC OS has received little to none improvement and refactoring to follow the new trends on the matter of UI and this can cause two sorts of problems:
 
