@@ -2,7 +2,7 @@
 
 ## Project overview
 
-One of the first elements of a  Modern Operating System (OS) that is perceived by any type of user is the usability of its interaction environment (either command line or graphical user interface based).
+One of the first elements of a Modern Operating System (OS) that is perceived by any type of user is the usability of its interaction environment (either command line or graphical user interface based).
 
 Regardless the technologies implied in the general architecture of the OS or the number of applications it can be used for, the we can interact with it is the very first element a user will always perceive.
 
@@ -50,4 +50,3 @@ However the project is open and welcoming everyone that would like to join us an
 
 As a fully Open Source project and given the contraints above the quality control measures, this project relies on code reviews and community testing and problem reporting using our Issues Modules (in github).
  
-
