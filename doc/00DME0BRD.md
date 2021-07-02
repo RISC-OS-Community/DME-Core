@@ -48,5 +48,5 @@ However the project is open and welcoming everyone that would like to join us an
 
 ## Quality control measures
 
-As a fully Open Source project and given the contraints above the quality control measures, this project relies on code reviews and community testing and problem reporting using our Issues Modules (in github).
+As a fully Open Source project and given the constraints above the quality control measures, this project relies on code reviews and community testing and problem reporting using our Issues Modules (on GitHub).
  
