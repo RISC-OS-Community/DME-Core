@@ -27,7 +27,7 @@ Each Keyword (token) in the configuration file is case insenitive, while their v
 Each keyword, when parsed, will be trimmed of spaces surrounding it, but no internal spaces will be touched.
 Each keyword value, when parsed, will have surrounding spaces trimmed, but no internal spaces will be touched.
 
-Each line that begins with a "#" symbol are considered comments and will be ignored.
+Each line that begins with a "#" symbol is considered a comment and will be ignored.
 
 Protocol Example:
 ```
