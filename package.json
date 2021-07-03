@@ -1,0 +1,13 @@
+{
+	"name": "dme_core",
+	"version": "1.0.0",
+	"repository": "github:RISC-OS-Community/DME-Core.git",
+	"dependencies": {
+		"SharedCLibrary": "^6.0.0",
+		"WindowManager": "~3.8.0"
+	},
+	"devDependencies": {
+		"libCJSON": "git+https://git@github.com:RISC-OS-Community/libCJSON.git#^1.7.14"
+	}
+}
+

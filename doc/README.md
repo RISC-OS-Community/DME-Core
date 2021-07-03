@@ -9,12 +9,12 @@ All the code in this community is distributed as Open Source and so the word bus
 [Detailed BRD here](00DME0BRD.md)
 
 ## Market Requirements Document (MRD)
-RISC OS is an Operating System that at the moment has the advantage of being extremely minimalistic. This is definitely an advantage in markets like IoT and Embeeded Applications, however improving its desktop functionalities would certainly help those who wish to adopt RISC OS for their own solutions development.
+RISC OS is an Operating System that at the moment has the advantage of being extremely minimalistic. This is definitely an advantage in markets like IoT and Embedded Applications, however improving its desktop functionalities would certainly help those who wish to adopt RISC OS for their own solutions development.
 Having a more modern experience and a more standardised one will certainly help to reduce the initial learning curve to adopt RISC OS as a platform for developing and distributing 3rd party applications and solutions.
 
 [Detaled MRD here](00DME0MRD.md)
 
-## Product Requirements Dcument (PRD)
+## Product Requirements Document (PRD)
 This document is what most users are interested to:
 
 [Detailed PRD here](00DME0PRD.md)
@@ -30,7 +30,7 @@ We'd recommend to read it before installing and using the DME Engine on your RIS
 [DME Design is available here](01DMEDesign.md)
 
 ### DME Config File Protocol
-[DME Configuration File Protocol details available here](02DMEConfigFileP.txt)
+[DME Configuration File Protocol details available here](02DMEConfigFileP.md)
 
 ### DME Theme Protocol
 The DME Theme Protocol is inspired by Rich Goodwin's and Chir's (Little Yellow Moon) works.
@@ -38,5 +38,5 @@ It is fundamentally a text file that describes all the options and details to ap
 
 This type of feature does not exists in the bare RISC OS and so must be added in order to make DME be able to deal with complex themes that may require more than to just reload the tool sprites.
 
-[Details on the Theme Protocol available here](02DMEThemeP.txt)
+[Details on the Theme Protocol available here](02DMEThemeP.md)
 

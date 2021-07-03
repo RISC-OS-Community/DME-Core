@@ -1,5 +1,11 @@
 This directory contains all the documents that describe the DMECore, such as:
-- 00DMERequirements.txt     (DME collected requirements)
-- 01DMEDesign.txt           (DME General Architecture Design)
-- 02DMEConfigFileP.txt      (DME Configuration Protocol)
-- 02DMEThemeP.txt           (DME Theme Protocol)
+
+doc
+├── 00DME0BRD/md            (DME Business Requirements Document)
+├── 00DME0MRD/md            (DME Marketing Requirements Document)
+├── 00DME0PRD/md            (DME Product Requirements Document)
+├── 01DMEDesign/md          (DME Core General Design Document)
+├── 02DMEConfigFileP/md     (DME Configuration File Protocol description)
+├── 02DMEThemeP/md          (DME Theming Protocol description) 
+├── README/md               (GitHub ReadMe file in MarkDown format)
+└── !ReadMe/txt             (This file)

@@ -91,8 +91,12 @@ In general you'd want to:
 * Start adding your changes
   - If you need on-line RISC OS documentation you can find it [here](https://www.riscosopen.org/wiki/documentation/show/HomePage)
   - Where applicable stick to RISC OS Style guide
-    - If you don't have the guide and would like to get your copy you can find info/help [here](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
+    - If you don't have the guide and would like to get your copy you can:
+      - find info/help [here](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
+      - Or download a free PDF [here](https://www.riscosopen.org/zipfiles/platform/common/StyleGuide.3.pdf)
   - Also please have a look at the Programming Conventions hosted on RISCOS.info, [click here to read them](http://www.riscos.info/index.php/Programming_Conventions)
+  - [Official Programmer Documentation from RISC OS Open](https://www.riscosopen.org/wiki/documentation/show/Programmer%20documentation)
+  - For changes that may require patching RISC OS Code or modifying RISC OS code in whatever form please also refer to the [Official Developer Documentation from RISC OS Open](https://www.riscosopen.org/wiki/documentation/show/Developer%20documentation)
   - Make sure you keep the documentation and code comments up-to-date with your changes
 * When done with your changes add them to your local git using: `git add ./what-you-chaged`
 * Commit your changes using: `git commit -m "commit message"`
@@ -108,6 +112,8 @@ ROOL has a fantastic repo with tools that can be used to make life easier for BB
 
 [Tools to help using git with BBC BASIC](https://gitlab.riscosopen.org/Support/RepoTools)
 
+Also ROOL has a free BBC BASIC Reference Manual PDF updated and available [here](https://www.riscosopen.org/zipfiles/platform/common/BASICRefManual.3.pdf)
+
 # Extra info for everyone
 
 If you fear having to learn git or if you just want to help us with reviewing documentation etc. you can also use GitHub via the GitHub application, available for both the Apple iPad and iPhone and Android Tablets and Phones.
@@ -115,3 +121,4 @@ The Android/Apple GitHub application makes it very easy to interact with us and 
 Have a look in your device' on-line store for the GitHub application published by GitHub.
 
 So no excuses! ;-)
+
