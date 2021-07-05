@@ -1,7 +1,18 @@
 {
 	"name": "dme_core",
 	"version": "1.0.0",
-	"repository": "github:RISC-OS-Community/DME-Core.git",
+	"description": "RISC OS Desktop Modernisation Engine, core component that applies the changes to a running RISC OS system",
+	"main": "src/c/main",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RISC-OS-Community/DME-Core.git"
+	},
+	"author": "Paolo Fabio Zaino",
+	"license": "Apache 2.0",
+	"bugs": {
+		"url": "https://github.com/RISC-OS-Community/DME-Core/issues"
+	},
+	"homepage": "https://github.com/RISC-OS-Community/DME-Core#readme",
 	"dependencies": {
 		"SharedCLibrary": "^6.0.0",
 		"WindowManager": "~3.8.0"
@@ -10,4 +21,3 @@
 		"libCJSON": "git+https://git@github.com:RISC-OS-Community/libCJSON.git#^1.7.14"
 	}
 }
-
