@@ -3,6 +3,12 @@
 	"version": "1.0.0",
 	"description": "RISC OS Desktop Modernisation Engine, core component that applies the changes to a running RISC OS system",
 	"main": "src/c/main",
+	"bin": {
+		"!DMECore": "./!DMECore/!RunImage"
+	},
+	"man": "./!DMECore/!Help",
+	"os": "RISC OS",
+	"cpu": "arm",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/RISC-OS-Community/DME-Core.git"
@@ -18,10 +24,6 @@
 		"WindowManager": "~3.8.0"
 	},
 	"devDependencies": {
-		"libCJSON": {
-			"type": "git",
-			"url": "https://github.com/RISC-OS-Community/LibCJSON.git",
-			"version": "^1.7.14"
-		}
+		"libCJSON": "git+https://github.com/RISC-OS-Community/LibCJSON.git#~1.7.14"
 	}
 }
