@@ -20,7 +20,8 @@
 	"devDependencies": {
 		"libCJSON": {
 			"type": "git",
-			"url": "https://github.com/RISC-OS-Community/LibCJSON.git#^1.7.14"
+			"url": "https://github.com/RISC-OS-Community/LibCJSON.git",
+			"version": "^1.7.14"
 		}
 	}
 }
