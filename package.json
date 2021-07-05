@@ -18,6 +18,9 @@
 		"WindowManager": "~3.8.0"
 	},
 	"devDependencies": {
-		"libCJSON": "git+https://github.com/RISC-OS-Community/LibCJSON.git#^1.7.14"
+		"libCJSON": {
+			"type": "git",
+			"url": "https://github.com/RISC-OS-Community/LibCJSON.git#^1.7.14"
+		}
 	}
 }
