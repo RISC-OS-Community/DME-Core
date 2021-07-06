@@ -19,6 +19,9 @@
 		"url": "https://github.com/RISC-OS-Community/DME-Core/issues"
 	},
 	"homepage": "https://github.com/RISC-OS-Community/DME-Core#readme",
+	"engines": {
+		"rospack": "1.0.0"
+	},
 	"dependencies": {
 		"SharedCLibrary": "^6.0.0",
 		"WindowManager": "~3.8.0"
