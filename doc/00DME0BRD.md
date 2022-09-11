@@ -46,6 +46,16 @@ This is a fully Open Source project and a work of love from the RISC OS communit
 
 However the project is open and welcoming everyone that would like to join us and help us.
 
+### General requirements
+
+All DME components should be designed and developed having in mind the following requirements:
+
+- They should all work from an ARM3 + 8MB RAM RISC OS 3.10 system up to modern and latest RISC OS. The reason for this is it would be nice  to have an homogeneous approach on all my RISC OS systems and releases. This requirement is not absolute, if certain components can not be made for older RISC OS (or for the minimal platform), then this requirement should be considered optional. 
+- Everything has to be Open Source (possibly released under CDDL v1.1 license) and buildable with Open Source tools (but also buildable using DDE). Given that all the DME components are external, it's not mandatory to support ROOL Builder, but it is a nice to have. 
+- Everything must support proper application window updates using NULL events and simulate as much as possible a preemptive system. 
+- Everything must interact (where needed) with other DME components and RISC OS itself, integration is key for this project.
+- Code should be designed to be as performant as possible and support all the Theming (so no assumptions shall be made on backgrounds and colour schemes)
+
 ## Quality control measures
 
 As a fully Open Source project and given the constraints above the quality control measures, this project relies on code reviews and community testing and problem reporting using our Issues Modules (on GitHub).
