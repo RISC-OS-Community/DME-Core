@@ -1,11 +1,13 @@
 # DME Theme Protocol
 
 ## Intro
-Each Theme must be created in the way described below to be correctly understood and applied by the DME-Core when the DME-Core calls the Themeing Task.
+
+Each Theme must be created in the way described below to be correctly understood and applied by the DME-Core when the DME-Core calls the Theme-ing Task.
 
 Each Theme is identified by a directory called with the Theme name.
-The directory must presents the follwoing structure:
-```
+The directory must presents the following structure:
+
+```shell
 Theme Name
 ├── Apps
 ├── Backgrounds
@@ -19,18 +21,20 @@ Theme Name
 ```
 
 ## Protocol details
+
 Each theme must contain a configuration file either called Choices or Config.
 
-Essencially the file format is *key* *value*.
+Essentially the file format is *key* *value*.
 
-Each Keyword (token) in the configuration file is case insenitive, while their values are case sensitive.
+Each Keyword (token) in the configuration file is case insensitive, while their values are case sensitive.
 Each keyword, when parsed, will be trimmed of spaces surrounding it, but no internal spaces will be touched.
 Each keyword value, when parsed, will have surrounding spaces trimmed, but no internal spaces will be touched.
 
 Each line that begins with a "#" symbol is considered a comment and will be ignored.
 
 Protocol Example:
-```
+
+```shell
 # Theme data header
 Name:The Theme
 Info:A theme
@@ -80,7 +84,7 @@ Palette:Dark
 ## Mouse pointer theming
 Pointer:Pointers
 
-## Windows themeing
+## Windows theme-ing
 WinTile:Dark
 WinTools:Yes
 WinHighlight:EDEDFF
@@ -90,10 +94,10 @@ WinOverwrite:No
 WinTextured:Yes
 GroupColour:ADB3C1
 
-## Optional if you want a differen tname for your sprites file
+## Optional if you want a different name for your sprites file
 Sprites:Sprites
 
-## Sound themeing
+## Sound theme-ing
 SoundOpen:Welcome2
 SoundQuit:GetMeOut
 Sound00009:<none>
