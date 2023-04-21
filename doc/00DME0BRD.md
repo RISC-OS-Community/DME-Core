@@ -20,25 +20,27 @@ So we thought it would be very useful to introduce a way to allow such changes t
 At the same time such changes shall not be invasive and shall be kept optional for the userbase that prefers the original way RISC OS has to interact with the user.
 
 RISC OS Desktop and its users would benefit from:
+
 - A customizable desktop through the addition of a powerful and easy to use Theme Manager
 - More modern and useful functionalities like 
   - Introducing instant desktop notifications via a new configurable framework
   - Fast features access via a new global keyboard shortcuts framework
-  - Essential keyboard control of the mouse pointer (for those situations where the mouse may abbandon us!)
-  - and more 
+  - Essential keyboard control of the mouse pointer (for those situations where the mouse may abandon us!)
+  - and more
 
 ## Success factors
 
 We'd define as success factors for this project:
-- The possibility for a new user to define and use an environment and UI as close as possible to "the modern perceptions created by far more popular OS like MS Windows and Apple macOS". While users acustomed to the old UI shall be let free to keep using the OS as they liked it to be.
+
+- The possibility for a new user to define and use an environment and UI as close as possible to "the modern perceptions created by far more popular OS like MS Windows and Apple macOS". While users accustomed to the old UI shall be let free to keep using the OS as they liked it to be.
 - An extremely easy way to achieve their UI configuration goals that would require little to no knowledge of RISC OS for the new users and little to no knowledge of the new UI from experienced users.
-- All the changes and improvements would reside in a single and easy to install (and remove) "Package". 
+- All the changes and improvements would reside in a single and easy to install (and remove) "Package".
 
 ## Project Scope
 
-This project has no intention to modify the OS internals. In a first phase it should be limited to work to add the required tools to achieve the goals in the overview and, eventually, in a second phase it may be sligthely more *invasive*, but only from the UI (WIMP) point of view.
+This project has no intention to modify the OS internals. In a first phase it should be limited to work to add the required tools to achieve the goals in the overview and, eventually, in a second phase it may be slightly more *invasive*, but only from the UI (WIMP) point of view.
 
-Also we'd like to avoid "re-inventing the wheel" wherever possible and so we shall reuse (and improve) existsing tools to achieve the goals (where we'll be allowed by the original authors of such tools).
+Also we'd like to avoid "re-inventing the wheel" wherever possible and so we shall reuse (and improve) existing tools to achieve the goals (where we'll be allowed by the original authors of such tools).
 
 ## Project constraints
 
@@ -50,8 +52,8 @@ However the project is open and welcoming everyone that would like to join us an
 
 All DME components should be designed and developed having in mind the following requirements:
 
-- They should all work from an ARM3 + 8MB RAM RISC OS 3.10 system up to modern and latest RISC OS. The reason for this is it would be nice  to have an homogeneous approach on all my RISC OS systems and releases. This requirement is not absolute, if certain components can not be made for older RISC OS (or for the minimal platform), then this requirement should be considered optional. 
-- Everything has to be Open Source (possibly released under CDDL v1.1 license) and buildable with Open Source tools (but also buildable using DDE). Given that all the DME components are external, it's not mandatory to support ROOL Builder, but it is a nice to have. 
+- They should all work from an ARM3 + 8MB RAM RISC OS 3.10 system up to modern and latest RISC OS. The reason for this is it would be nice  to have an homogeneous approach on all my RISC OS systems and releases. This requirement is not absolute, if certain components can not be made for older RISC OS (or for the minimal platform), then this requirement should be considered optional.
+- Everything has to be Open Source (possibly released under CDDL v1.1 license) and "build-able" with Open Source tools (but also using DDE). Given that all the DME components are external, it's not mandatory to support ROOL Builder, but it is a nice to have.
 - Everything must support proper application window updates using NULL events and simulate as much as possible a preemptive system. 
 - Everything must interact (where needed) with other DME components and RISC OS itself, integration is key for this project.
 - Code should be designed to be as performant as possible and support all the Theming (so no assumptions shall be made on backgrounds and colour schemes)
@@ -59,4 +61,3 @@ All DME components should be designed and developed having in mind the following
 ## Quality control measures
 
 As a fully Open Source project and given the constraints above the quality control measures, this project relies on code reviews and community testing and problem reporting using our Issues Modules (on GitHub).
- 

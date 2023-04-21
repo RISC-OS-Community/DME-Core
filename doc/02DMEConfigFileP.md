@@ -3,18 +3,19 @@ This page describes the DME-Core main configuration file protocol. This file all
 
 Each DME-Core add-ons may have its own configuration file.
 
-Essencially the file format is *key* *value*.
+Essentially the file format is *key* *value*.
 
-Each Keyword (token) in the configuration file is case insenitive, while their values are case sensitive.
+Each Keyword (token) in the configuration file is NOT case sensitive, while their values are case sensitive.
 Each keyword, when parsed, will be trimmed of spaces surrounding it, but no internal spaces will be touched.
 Each keyword value, when parsed, will have surrounding spaces trimmed, but no internal spaces will be touched.
 
 Each line that begins with a "#" symbol is considered a comment and will be ignored.
 
 Protocol example:
-```
+
+```shell
 # DME Section
-# This section provides info for the DME-Core Engine to understadn properly the configuration file
+# This section provides info for the DME-Core Engine to understand properly the configuration file
 # This is useful across different releases of the DME-Core engine
 DMEVer: <version of the DME required to process this file> (required)
 

@@ -1,14 +1,15 @@
 # Product Requirements Document
 
-## As a RISC OS user I would like that:
+## As a RISC OS user I would like that
 
 *RU0001*
 
 The DME-Core Engine should be able to set:
-- Theme preferences
-- Windowing Configurations (Windows FLags)
-- Load user activated Global Controls
-- Load user activated Desktop Gadgets
+
+* Theme preferences
+* Windowing Configurations (Windows FLags)
+* Load user activated Global Controls
+* Load user activated Desktop Gadgets
 
 ------
 
@@ -16,15 +17,16 @@ The DME-Core Engine should be able to set:
 
 To fulfill RU0001 it should read a configuration file that can be modified by the user using the DME ConfigTools.
 The configuration file:
-- Should reside in !Boot:Choices.DME
-- Should be either a set of configurations files or just a single file
-- It should be following a well define configuration protocol ([see here for more details](02DMEConfigFileP.md))
+
+* Should reside in !Boot:Choices.DME
+* Should be either a set of configurations files or just a single file
+* It should be following a well define configuration protocol ([see here for more details](02DMEConfigFileP.md))
 
 ------
 
 *RU0003*
 
-Every add-on (Global Controls, Theme, Gadget) should be enabbled or disabled via an option on the Configuration UI.
+Every add-on (Global Controls, Theme, Gadget) should be enabled or disabled via an option on the Configuration UI.
 
 ------
 
@@ -34,7 +36,7 @@ For new users there should be an "Initial Configuration" available as a "Wizard 
 
 ------
 
-## As a RISC OS Vendor I would like that:
+## As a RISC OS Vendor I would like that
 
 *RV0001*
 
@@ -49,6 +51,7 @@ I would like to be able to control the "Initial Configuration Process" by settin
 ------
 
 ## As a RISC OS Developer/Theme Creator I would like that
+
 *RD0001*
 
 I can use some Wimp Tool to be able to create a Theme instead of having to do everything manually
@@ -66,4 +69,3 @@ I would like to have an easy way to distribute my Theme and for the users to ins
 I would like that the Theme System would work on as many RISC OS devices and RISC OS releases as possible in order to maximise the distribution of my work. Possibly the Theme System should recognise each release of RISC OS and apply my Theme in a way that makes it compatible with the specific version.
 
 ------
- 
